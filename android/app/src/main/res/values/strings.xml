@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tandir</string>
+    <string name="server_client_id">724815399248-mi8dfd7629p7t6bfg7ft2ec4kqpsl1an.apps.googleusercontent.com</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">IHtPCogs16lZve_RnvaFtIDMEJ_R5qM9h-V3K</string>
+</resources>

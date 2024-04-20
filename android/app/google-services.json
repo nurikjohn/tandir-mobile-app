@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "724815399248",
+    "project_id": "tandir-backend",
+    "storage_bucket": "tandir-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724815399248:android:5d662f4a0d62d82f0d4455",
+        "android_client_info": {
+          "package_name": "uz.tandir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724815399248-74ojl08c7nkojla11vlu1p6r4bt78i8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.tandir",
+            "certificate_hash": "edaa5ee54e0ded7dc2d7247c6a1e4ed16614ffc3"
+          }
+        },
+        {
+          "client_id": "724815399248-mi8dfd7629p7t6bfg7ft2ec4kqpsl1an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmzOw2ZaHT05Ds1GQ_uwYqund18uf68M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724815399248-mi8dfd7629p7t6bfg7ft2ec4kqpsl1an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724815399248-ivacd03md2r7eie08acqs76lf80dbh0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.tandir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MaterialSymbolsOutlined.ttf",
+      "sha1": "f37bc8f0db1818fb8290986d8853d0d8a5a58de4"
+    },
+    {
+      "path": "src/assets/fonts/SpaceMono-Bold.ttf",
+      "sha1": "91bc9576b93d1a2ffc75da19665a3b8b654f5d40"
+    },
+    {
+      "path": "src/assets/fonts/SpaceMono-BoldItalic.ttf",
+      "sha1": "9aad4d2055e6ac52cd47f2a09ea836f697bef50b"
+    },
+    {
+      "path": "src/assets/fonts/SpaceMono-Italic.ttf",
+      "sha1": "9bdbab7a60578b307d9ae6c45c859ed5ba98d762"
+    },
+    {
+      "path": "src/assets/fonts/SpaceMono-Regular.ttf",
+      "sha1": "b610a073df31c21b1378d9996a80c3056ec80329"
+    },
+    {
+      "path": "src/assets/audio/countdown_8_bit.mp3",
+      "sha1": "d0f051f7ab8f603c7223912bfef402ea89208802"
+    },
+    {
+      "path": "src/assets/audio/fireworks.mp3",
+      "sha1": "91ae48ce2d840d99a63972e430744a7016dfe2c0"
+    },
+    {
+      "path": "src/assets/audio/opponent_found_sound.mp3",
+      "sha1": "610122182135fd2567292140162a3d8af61a4053"
+    }
+  ]
+}
